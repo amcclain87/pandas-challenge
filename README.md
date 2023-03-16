@@ -16,12 +16,15 @@ From this data analysis it appears that schools that spend more per student perf
  This analysis does not compare the cost of spending to school size. The schools that spend less are charter schools and have much smaller student bodies. It is likely that opperating a school with over 4,000 students requires higher spending per student. However, this variable is unknown.
  
  <b>School Size</b>
+ 
  It this analysis shows that both small(less than 1000 students) and medium(1000-2000 students) perform well. Both size categories have passing rates of approximately 90%. Large schools(2000-50000 student) perform significantly worse at 58%.
  
 <b>School Type</b>
+
 Charter schools appear to out perform district schools in reading scores, math scores, and overall passing rates. Charter schools' reading passing rate was 96.6%, math passing rate was 93.6% and overall passing of 90.4%. While district schools have an average reading passage rate of 80.8%, math passing rate of 66.4%, and overall passing rate of 53.7%.
 
 <b>Conclusion</b>
+
 Based solely on the numbers, it appears that smaller charter schools perform better than larger public schools that spend more per student.
 
 Further information that would be needed to allow for a more definitive conclusion would include student demographics, family socioeconomic status, percent of free and reducued lunch, numbers of English language learners, and school enrollment practices. 
